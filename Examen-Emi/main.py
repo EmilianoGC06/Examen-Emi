@@ -25,6 +25,6 @@ elif opcion == "3":
 elif opcion == "4":
     radio = float(input("Radio: "))
     print("Área:", figuras.circulo(radio))
-
+    
 else:
     print("Opción inválida")
